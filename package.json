@@ -1,0 +1,19 @@
+{
+  "name": "pruebapuntocommerce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RodrigoSerrano23/PruebaPuntoCommerce.git"
+  },
+  "author": "Rodrigo Serrano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RodrigoSerrano23/PruebaPuntoCommerce/issues"
+  },
+  "homepage": "https://github.com/RodrigoSerrano23/PruebaPuntoCommerce#readme"
+}
