@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/RodrigoSerrano23/PruebaPuntoCommerce/issues"
   },
-  "homepage": "https://github.com/RodrigoSerrano23/PruebaPuntoCommerce#readme"
+  "homepage": "https://github.com/RodrigoSerrano23/PruebaPuntoCommerce#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
