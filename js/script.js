@@ -13,7 +13,8 @@ function traeDatos(){
                 console.log(item);
                 res.innerHTML   += 
                 `<div class="col-3">
-                <img src="imgs/${i}.jpg">
+                <p class="porcentaje">${Math.floor(item.specialPrice / item.price * 100 - 100)}%</p>
+                <img src="imgs/${i}.jpg" >
                 <h4>${item.name}</h4>
                 <div class="rating">
                     <div class="fa ec-stars-wrapper">
